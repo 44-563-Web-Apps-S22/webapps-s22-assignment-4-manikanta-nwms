@@ -5,3 +5,5 @@ Hosted at "https://github.com/44-563-Web-Apps-S22/webapps-s22-assignment-4-manik
 
 
 <a href="play.html">Link to play.html</a><br>
+
+<a href="play2.html">Link to play2.html</a><br>

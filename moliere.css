@@ -1,0 +1,88 @@
+.scene
+{
+    color: rgb(107, 17, 167);
+}
+.speech
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:medium;
+    color: rgb(26, 19, 19);
+}
+.direction
+{
+    background-color: rgb(240, 247, 155);
+    font-family:cursive;
+    font-size: smaller;
+    color: black;
+}
+
+h6.name {
+    margin-block: auto;
+}
+
+.CLE {
+    color:maroon;
+}
+.ELI {
+    color:teal
+}
+.HAR {
+    color:tomato;
+}
+
+
+table {
+    border: solid 3px CadetBlue;
+    width: 35%;
+    border-collapse: collapse;
+    margin: 5px;
+}
+
+th, td {
+    border: solid 1px;
+    text-align: center;
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #6557e4;
+}
+
+.CLE:hover {
+    text-shadow: 2px 3px 4px rosybrown;
+    border: solid 2px rgb(189, 25, 25);
+}
+
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    background-color: rgb(32, 58, 173);
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+    color: floralwhite;
+}
+ul.navbar-horizontal a:hover {
+    background-color: rgb(47, 103, 177);
+    color:rgb(177, 38, 182);
+}
+
+h6.CLE:hover {
+    border: 2px solid mediumvioletred;
+    box-shadow: 2px 3px mediumvioletred;
+}
+
+h6.HAR:hover {
+    border: 2px solid mediumvioletred;
+    box-shadow: 2px 3px mediumvioletred;
+}
+
+h6.MAR:hover {
+    border: 2px solid mediumvioletred;
+    box-shadow: 2px 3px mediumvioletred;
+}

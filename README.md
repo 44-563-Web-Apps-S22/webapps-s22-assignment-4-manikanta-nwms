@@ -7,4 +7,4 @@ assignment 4 Hosted at" https://44-563-web-apps-s22.github.io/webapps-s22-assign
 
 <a href="play.html">Link to play.html</a><br>
 
-<a href="play2.html">Link to play2.html</a><br>
+
